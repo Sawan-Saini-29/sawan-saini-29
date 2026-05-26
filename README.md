@@ -12,6 +12,8 @@
 - 🌱 Passionate about building scalable and high-performance applications
 - 🤝 Experienced in mentoring developers and leading project delivery
 - 📍 Based in Indore, India
+- 💼 LinkedIn: **https://www.linkedin.com/in/sawan-saini-39994a1a0**
+- 🌐 Portfolio: **https://sawan-saini-portfolio.vercel.app**
 - 📫 Reach me at: **sawansaini6162@gmail.com**
 
 ---
